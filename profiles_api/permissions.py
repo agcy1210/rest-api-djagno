@@ -12,6 +12,4 @@ class UpdateOwnProfile(permissions.BasePermission):
             return True
 
         #if method is not get then will check if user wants to edit own profile
-        return obj.id == request.user.id
-
-
+        return obj.id == request.user.ids
