@@ -1,4 +1,6 @@
-# PROFILES REST API
+# DJANGO REST API's
 
 
-REST API basic functionality for managing profiles.
+- It includes rest api's to handle functionality for managing profiles like login, update, create, delete etc.
+- Various kinds of request like get, post, put, delete are demonstrated. 
+- Class based views are used.
