@@ -1,4 +1,4 @@
-# DJANGO REST API's
+# DJANGO REST API
 
 
 - It includes rest api's to handle functionality for managing profiles like login, update, create, delete etc.
