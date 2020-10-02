@@ -44,6 +44,7 @@ class HelloApiView(APIView):
 
     def put(self, request, pk=None):
         """Handles updating an object"""
+        """ all the fields are required in request object."""
 
         return Response({'method': 'put'})
 
